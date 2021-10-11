@@ -1,0 +1,979 @@
+,Age,Gender,Earnings,US Region
+0,18 - 29,Male,Prefer not to answer,New England
+1,18 - 29,Male,"$75,000 to $99,999",East North Central
+2,18 - 29,Male,"$10,000 to $24,999",Pacific
+3,18 - 29,Male,"$25,000 to $49,999",West South Central
+4,18 - 29,Male,"$200,000 and up",Middle Atlantic
+5,18 - 29,Male,"$25,000 to $49,999",East North Central
+7,18 - 29,Male,Prefer not to answer,South Atlantic
+8,18 - 29,Male,Prefer not to answer,East North Central
+9,18 - 29,Male,"$10,000 to $24,999",East North Central
+10,18 - 29,Male,"$50,000 to $74,999",West North Central
+11,18 - 29,Male,"$25,000 to $49,999",East South Central
+13,18 - 29,Male,"$0 to $9,999",Pacific
+14,18 - 29,Male,"$100,000 to $124,999",New England
+15,18 - 29,Male,"$50,000 to $74,999",East North Central
+16,18 - 29,Male,"$25,000 to $49,999",East North Central
+17,18 - 29,Male,"$75,000 to $99,999",East North Central
+18,30 - 44,Male,"$25,000 to $49,999",Pacific
+19,30 - 44,Male,"$10,000 to $24,999",Pacific
+20,18 - 29,Male,"$50,000 to $74,999",Mountain
+21,30 - 44,Male,"$75,000 to $99,999",South Atlantic
+22,18 - 29,Male,"$50,000 to $74,999",Middle Atlantic
+23,18 - 29,Male,"$75,000 to $99,999",Middle Atlantic
+24,30 - 44,Male,"$25,000 to $49,999",East North Central
+26,30 - 44,Male,"$75,000 to $99,999",East North Central
+27,30 - 44,Male,"$75,000 to $99,999",Middle Atlantic
+28,30 - 44,Male,"$25,000 to $49,999",East North Central
+29,18 - 29,Male,"$25,000 to $49,999",South Atlantic
+30,18 - 29,Male,"$25,000 to $49,999",East North Central
+31,18 - 29,Male,"$0 to $9,999",East North Central
+34,30 - 44,Male,"$100,000 to $124,999",East South Central
+35,18 - 29,Male,"$10,000 to $24,999",Pacific
+36,18 - 29,Male,"$175,000 to $199,999",New England
+37,18 - 29,Male,"$0 to $9,999",West North Central
+38,18 - 29,Male,"$125,000 to $149,999",Pacific
+39,30 - 44,Male,"$75,000 to $99,999",East North Central
+41,18 - 29,Male,"$100,000 to $124,999",Mountain
+42,45 - 59,Male,"$50,000 to $74,999",Pacific
+43,45 - 59,Male,"$10,000 to $24,999",Pacific
+44,18 - 29,Male,"$50,000 to $74,999",Pacific
+45,18 - 29,Male,"$0 to $9,999",Pacific
+46,18 - 29,Male,"$0 to $9,999",West South Central
+47,30 - 44,Male,"$200,000 and up",Mountain
+48,18 - 29,Male,"$75,000 to $99,999",South Atlantic
+49,30 - 44,Male,"$150,000 to $174,999",Middle Atlantic
+50,45 - 59,Male,"$10,000 to $24,999",Middle Atlantic
+51,45 - 59,Male,"$200,000 and up",Pacific
+52,30 - 44,Male,"$10,000 to $24,999",West North Central
+53,45 - 59,Male,"$50,000 to $74,999",East South Central
+54,30 - 44,Male,"$0 to $9,999",East North Central
+55,30 - 44,Male,"$75,000 to $99,999",East North Central
+56,45 - 59,Male,Prefer not to answer,Pacific
+57,30 - 44,Male,Prefer not to answer,West North Central
+58,18 - 29,Male,Prefer not to answer,Pacific
+59,45 - 59,Male,"$50,000 to $74,999",West South Central
+60,45 - 59,Male,"$200,000 and up",Pacific
+61,18 - 29,Male,Prefer not to answer,Pacific
+62,18 - 29,Male,Prefer not to answer,Pacific
+63,45 - 59,Male,"$100,000 to $124,999",Pacific
+64,18 - 29,Male,Prefer not to answer,Pacific
+65,45 - 59,Male,"$125,000 to $149,999",Pacific
+66,30 - 44,Male,"$25,000 to $49,999",Pacific
+67,18 - 29,Male,Prefer not to answer,Pacific
+68,45 - 59,Male,"$75,000 to $99,999",Pacific
+69,18 - 29,Male,Prefer not to answer,Pacific
+70,18 - 29,Male,Prefer not to answer,Pacific
+71,18 - 29,Male,Prefer not to answer,Pacific
+72,18 - 29,Male,"$25,000 to $49,999",Pacific
+73,18 - 29,Male,"$25,000 to $49,999",Pacific
+74,30 - 44,Male,Prefer not to answer,Pacific
+75,45 - 59,Male,Prefer not to answer,Pacific
+76,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+77,30 - 44,Male,"$10,000 to $24,999",Pacific
+78,18 - 29,Male,"$0 to $9,999",West North Central
+79,18 - 29,Male,"$0 to $9,999",West North Central
+80,30 - 44,Male,"$25,000 to $49,999",West North Central
+81,30 - 44,Male,"$10,000 to $24,999",East South Central
+82,18 - 29,Male,"$100,000 to $124,999",Pacific
+83,45 - 59,Male,Prefer not to answer,Pacific
+84,30 - 44,Male,"$10,000 to $24,999",Middle Atlantic
+85,45 - 59,Male,"$200,000 and up",Pacific
+86,30 - 44,Male,"$50,000 to $74,999",Pacific
+88,30 - 44,Male,Prefer not to answer,West South Central
+89,45 - 59,Male,Prefer not to answer,South Atlantic
+91,30 - 44,Male,"$200,000 and up",Pacific
+92,45 - 59,Male,"$125,000 to $149,999",Middle Atlantic
+93,45 - 59,Male,Prefer not to answer,East North Central
+94,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+95,18 - 29,Male,Prefer not to answer,Pacific
+96,18 - 29,Male,Prefer not to answer,Pacific
+97,45 - 59,Male,Prefer not to answer,South Atlantic
+98,18 - 29,Male,Prefer not to answer,Pacific
+99,30 - 44,Male,"$0 to $9,999",Pacific
+100,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+101,30 - 44,Male,"$0 to $9,999",East North Central
+102,45 - 59,Male,"$100,000 to $124,999",West South Central
+103,18 - 29,Male,"$25,000 to $49,999",East South Central
+104,30 - 44,Male,"$25,000 to $49,999",Mountain
+105,45 - 59,Male,"$50,000 to $74,999",West North Central
+106,45 - 59,Male,Prefer not to answer,Middle Atlantic
+107,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+108,30 - 44,Male,"$10,000 to $24,999",Middle Atlantic
+109,30 - 44,Male,"$75,000 to $99,999",West South Central
+110,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+111,30 - 44,Male,"$75,000 to $99,999",East North Central
+112,45 - 59,Male,"$25,000 to $49,999",East South Central
+113,45 - 59,Male,"$10,000 to $24,999",East North Central
+114,45 - 59,Male,"$50,000 to $74,999",Pacific
+115,45 - 59,Male,"$150,000 to $174,999",Pacific
+116,18 - 29,Male,"$50,000 to $74,999",West North Central
+117,60,Male,"$75,000 to $99,999",Mountain
+118,30 - 44,Male,"$25,000 to $49,999",South Atlantic
+119,18 - 29,Male,Prefer not to answer,Middle Atlantic
+120,30 - 44,Male,Prefer not to answer,East North Central
+121,30 - 44,Male,"$50,000 to $74,999",East South Central
+122,45 - 59,Male,"$200,000 and up",Pacific
+123,60,Male,"$125,000 to $149,999",West South Central
+124,60,Male,"$25,000 to $49,999",Pacific
+125,30 - 44,Male,"$75,000 to $99,999",Pacific
+126,18 - 29,Male,"$50,000 to $74,999",Mountain
+127,30 - 44,Male,"$100,000 to $124,999",East North Central
+128,30 - 44,Male,"$50,000 to $74,999",West South Central
+129,30 - 44,Male,"$50,000 to $74,999",East North Central
+130,18 - 29,Male,"$0 to $9,999",South Atlantic
+131,30 - 44,Male,"$0 to $9,999",South Atlantic
+132,18 - 29,Male,Prefer not to answer,West South Central
+133,60,Male,"$0 to $9,999",Mountain
+134,60,Male,"$25,000 to $49,999",Pacific
+135,18 - 29,Male,"$25,000 to $49,999",Middle Atlantic
+136,60,Male,"$50,000 to $74,999",Mountain
+137,30 - 44,Male,"$25,000 to $49,999",Mountain
+138,60,Male,"$75,000 to $99,999",Mountain
+139,60,Male,"$50,000 to $74,999",West North Central
+140,18 - 29,Male,"$0 to $9,999",West South Central
+141,60,Male,"$75,000 to $99,999",Pacific
+143,45 - 59,Male,"$75,000 to $99,999",West North Central
+145,30 - 44,Male,"$75,000 to $99,999",Middle Atlantic
+146,60,Male,"$100,000 to $124,999",Pacific
+147,45 - 59,Male,"$75,000 to $99,999",West North Central
+148,60,Male,"$200,000 and up",Mountain
+149,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+150,45 - 59,Male,"$200,000 and up",East South Central
+152,30 - 44,Male,"$0 to $9,999",Middle Atlantic
+153,30 - 44,Male,Prefer not to answer,Middle Atlantic
+154,60,Male,"$200,000 and up",East North Central
+155,30 - 44,Male,"$50,000 to $74,999",Pacific
+156,60,Male,Prefer not to answer,Mountain
+157,45 - 59,Male,"$125,000 to $149,999",Pacific
+158,60,Male,"$10,000 to $24,999",East North Central
+159,18 - 29,Male,"$10,000 to $24,999",West South Central
+160,30 - 44,Male,"$50,000 to $74,999",Pacific
+161,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+163,45 - 59,Male,"$75,000 to $99,999",West South Central
+164,18 - 29,Male,"$50,000 to $74,999",Pacific
+165,18 - 29,Male,"$75,000 to $99,999",South Atlantic
+166,45 - 59,Male,"$75,000 to $99,999",Mountain
+167,18 - 29,Male,Prefer not to answer,Middle Atlantic
+168,45 - 59,Male,"$125,000 to $149,999",West South Central
+169,18 - 29,Male,Prefer not to answer,Middle Atlantic
+170,18 - 29,Male,"$0 to $9,999",West South Central
+171,30 - 44,Male,Prefer not to answer,Pacific
+172,45 - 59,Male,"$200,000 and up",Middle Atlantic
+173,60,Male,"$75,000 to $99,999",Pacific
+174,45 - 59,Male,"$10,000 to $24,999",West South Central
+175,30 - 44,Male,Prefer not to answer,New England
+177,18 - 29,Male,Prefer not to answer,Pacific
+178,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+179,60,Male,Prefer not to answer,Mountain
+180,60,Male,"$125,000 to $149,999",West North Central
+181,30 - 44,Male,"$125,000 to $149,999",South Atlantic
+184,30 - 44,Male,"$75,000 to $99,999",Pacific
+185,60,Male,"$50,000 to $74,999",East South Central
+186,45 - 59,Male,"$50,000 to $74,999",Middle Atlantic
+187,60,Male,"$50,000 to $74,999",South Atlantic
+188,30 - 44,Male,"$200,000 and up",Pacific
+189,60,Male,Prefer not to answer,West South Central
+190,30 - 44,Male,"$50,000 to $74,999",East North Central
+191,60,Male,"$75,000 to $99,999",Middle Atlantic
+192,30 - 44,Male,Prefer not to answer,Middle Atlantic
+193,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+194,60,Female,"$125,000 to $149,999",Middle Atlantic
+195,30 - 44,Male,"$75,000 to $99,999",New England
+196,30 - 44,Male,"$200,000 and up",East North Central
+197,60,Female,Prefer not to answer,South Atlantic
+198,18 - 29,Male,Prefer not to answer,West North Central
+199,30 - 44,Male,"$0 to $9,999",East North Central
+200,60,Female,"$10,000 to $24,999",East North Central
+201,60,Female,"$75,000 to $99,999",Mountain
+202,45 - 59,Male,"$125,000 to $149,999",South Atlantic
+203,60,Male,"$25,000 to $49,999",South Atlantic
+204,45 - 59,Male,"$50,000 to $74,999",Mountain
+205,60,Male,"$125,000 to $149,999",Middle Atlantic
+206,30 - 44,Male,"$75,000 to $99,999",South Atlantic
+207,30 - 44,Male,"$175,000 to $199,999",West South Central
+208,45 - 59,Male,"$100,000 to $124,999",Pacific
+209,60,Female,"$150,000 to $174,999",Pacific
+210,30 - 44,Male,"$150,000 to $174,999",Middle Atlantic
+211,45 - 59,Male,"$25,000 to $49,999",West South Central
+212,18 - 29,Female,Prefer not to answer,Pacific
+213,18 - 29,Female,"$25,000 to $49,999",Mountain
+214,18 - 29,Female,"$25,000 to $49,999",East North Central
+215,30 - 44,Male,"$25,000 to $49,999",South Atlantic
+216,30 - 44,Male,"$25,000 to $49,999",East South Central
+217,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+218,60,Female,"$50,000 to $74,999",Pacific
+219,18 - 29,Female,"$10,000 to $24,999",Pacific
+220,18 - 29,Female,"$0 to $9,999",West South Central
+221,60,Male,"$25,000 to $49,999",East North Central
+222,60,Female,"$25,000 to $49,999",West North Central
+223,18 - 29,Female,"$25,000 to $49,999",Pacific
+224,60,Female,"$50,000 to $74,999",East South Central
+225,60,Male,"$50,000 to $74,999",East North Central
+226,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+227,60,Female,Prefer not to answer,West North Central
+228,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+229,45 - 59,Male,"$75,000 to $99,999",West South Central
+230,60,Female,"$25,000 to $49,999",South Atlantic
+231,18 - 29,Female,Prefer not to answer,Pacific
+232,60,Female,"$125,000 to $149,999",East South Central
+233,45 - 59,Male,"$175,000 to $199,999",East North Central
+234,60,Male,"$125,000 to $149,999",Mountain
+235,30 - 44,Male,"$25,000 to $49,999",New England
+237,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+238,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+239,30 - 44,Male,"$50,000 to $74,999",West South Central
+240,18 - 29,Female,"$0 to $9,999",South Atlantic
+241,60,Male,"$75,000 to $99,999",East North Central
+242,60,Male,"$125,000 to $149,999",West South Central
+243,18 - 29,Female,"$75,000 to $99,999",Pacific
+244,60,Male,"$50,000 to $74,999",Pacific
+245,45 - 59,Male,"$50,000 to $74,999",West North Central
+246,30 - 44,Male,"$50,000 to $74,999",New England
+247,60,Female,Prefer not to answer,East South Central
+248,45 - 59,Male,"$100,000 to $124,999",New England
+249,18 - 29,Female,Prefer not to answer,New England
+250,60,Male,"$25,000 to $49,999",East North Central
+251,18 - 29,Female,Prefer not to answer,East North Central
+252,60,Female,"$75,000 to $99,999",Middle Atlantic
+253,18 - 29,Male,"$0 to $9,999",West North Central
+254,60,Male,"$50,000 to $74,999",Mountain
+255,18 - 29,Female,"$0 to $9,999",East North Central
+256,60,Male,"$50,000 to $74,999",Middle Atlantic
+257,60,Female,Prefer not to answer,West North Central
+258,60,Male,"$75,000 to $99,999",East North Central
+259,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+260,45 - 59,Female,"$25,000 to $49,999",West North Central
+261,45 - 59,Female,"$75,000 to $99,999",West North Central
+262,18 - 29,Female,"$0 to $9,999",East North Central
+263,30 - 44,Male,Prefer not to answer,Mountain
+264,18 - 29,Female,"$50,000 to $74,999",Pacific
+265,45 - 59,Female,"$50,000 to $74,999",East North Central
+266,18 - 29,Male,"$50,000 to $74,999",South Atlantic
+267,45 - 59,Female,"$50,000 to $74,999",New England
+268,45 - 59,Female,"$175,000 to $199,999",West South Central
+269,18 - 29,Male,"$0 to $9,999",West South Central
+270,45 - 59,Male,"$50,000 to $74,999",Mountain
+271,60,Male,"$10,000 to $24,999",Mountain
+272,45 - 59,Female,Prefer not to answer,East North Central
+273,45 - 59,Female,"$25,000 to $49,999",Pacific
+274,60,Female,"$25,000 to $49,999",Mountain
+275,30 - 44,Male,Prefer not to answer,Pacific
+276,45 - 59,Female,"$125,000 to $149,999",West South Central
+277,45 - 59,Male,"$10,000 to $24,999",West North Central
+278,45 - 59,Male,"$125,000 to $149,999",East North Central
+279,18 - 29,Female,"$25,000 to $49,999",West North Central
+280,18 - 29,Female,"$0 to $9,999",West North Central
+281,45 - 59,Female,Prefer not to answer,Pacific
+282,60,Female,"$50,000 to $74,999",East North Central
+283,45 - 59,Female,"$125,000 to $149,999",Middle Atlantic
+284,45 - 59,Female,"$175,000 to $199,999",New England
+285,18 - 29,Female,"$25,000 to $49,999",East South Central
+286,60,Male,"$50,000 to $74,999",West North Central
+287,45 - 59,Female,"$0 to $9,999",West South Central
+288,45 - 59,Female,"$25,000 to $49,999",Pacific
+289,45 - 59,Female,"$25,000 to $49,999",Mountain
+290,45 - 59,Female,"$175,000 to $199,999",West South Central
+291,45 - 59,Male,"$75,000 to $99,999",New England
+292,30 - 44,Female,Prefer not to answer,South Atlantic
+294,60,Female,Prefer not to answer,East North Central
+295,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+296,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+297,45 - 59,Male,"$125,000 to $149,999",Pacific
+298,30 - 44,Female,"$200,000 and up",West North Central
+299,30 - 44,Female,"$25,000 to $49,999",West North Central
+300,45 - 59,Female,"$50,000 to $74,999",West North Central
+301,30 - 44,Female,"$125,000 to $149,999",East North Central
+302,30 - 44,Female,"$75,000 to $99,999",East North Central
+303,18 - 29,Female,"$10,000 to $24,999",East North Central
+304,30 - 44,Male,"$50,000 to $74,999",West South Central
+305,60,Female,Prefer not to answer,East North Central
+306,30 - 44,Female,Prefer not to answer,Pacific
+307,60,Male,"$150,000 to $174,999",West South Central
+308,45 - 59,Female,"$100,000 to $124,999",East North Central
+309,18 - 29,Female,"$75,000 to $99,999",West South Central
+310,30 - 44,Male,"$50,000 to $74,999",West South Central
+311,45 - 59,Female,"$75,000 to $99,999",Pacific
+312,60,Male,Prefer not to answer,West South Central
+313,30 - 44,Female,"$100,000 to $124,999",West North Central
+314,30 - 44,Female,"$25,000 to $49,999",East South Central
+315,30 - 44,Male,"$25,000 to $49,999",New England
+317,60,Male,"$50,000 to $74,999",West North Central
+318,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+319,18 - 29,Female,"$25,000 to $49,999",Mountain
+320,30 - 44,Male,"$10,000 to $24,999",Pacific
+321,30 - 44,Female,"$25,000 to $49,999",West South Central
+322,45 - 59,Female,Prefer not to answer,West South Central
+323,30 - 44,Male,Prefer not to answer,South Atlantic
+324,30 - 44,Female,"$100,000 to $124,999",East North Central
+325,30 - 44,Male,Prefer not to answer,Middle Atlantic
+326,30 - 44,Female,"$175,000 to $199,999",Pacific
+327,18 - 29,Female,"$25,000 to $49,999",East North Central
+328,60,Female,Prefer not to answer,Middle Atlantic
+329,45 - 59,Male,Prefer not to answer,Middle Atlantic
+330,60,Female,Prefer not to answer,East South Central
+331,60,Female,"$25,000 to $49,999",Middle Atlantic
+332,60,Female,"$10,000 to $24,999",Pacific
+333,18 - 29,Female,"$75,000 to $99,999",New England
+334,60,Male,"$100,000 to $124,999",East North Central
+335,18 - 29,Female,"$0 to $9,999",Pacific
+336,18 - 29,Female,"$150,000 to $174,999",Pacific
+337,30 - 44,Male,"$100,000 to $124,999",South Atlantic
+338,30 - 44,Female,"$125,000 to $149,999",South Atlantic
+339,30 - 44,Female,"$100,000 to $124,999",Middle Atlantic
+340,45 - 59,Female,"$50,000 to $74,999",East North Central
+341,60,Male,Prefer not to answer,Pacific
+342,30 - 44,Female,"$100,000 to $124,999",New England
+343,45 - 59,Female,"$100,000 to $124,999",East North Central
+344,45 - 59,Female,"$200,000 and up",Middle Atlantic
+345,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+346,45 - 59,Male,Prefer not to answer,West South Central
+347,60,Female,"$50,000 to $74,999",South Atlantic
+348,45 - 59,Male,"$150,000 to $174,999",Middle Atlantic
+349,45 - 59,Female,Prefer not to answer,Middle Atlantic
+350,45 - 59,Female,Prefer not to answer,East South Central
+351,45 - 59,Female,"$75,000 to $99,999",East North Central
+352,45 - 59,Male,"$0 to $9,999",Middle Atlantic
+353,18 - 29,Female,Prefer not to answer,East North Central
+354,60,Female,Prefer not to answer,Middle Atlantic
+355,60,Male,"$75,000 to $99,999",New England
+356,18 - 29,Male,Prefer not to answer,New England
+357,18 - 29,Male,"$0 to $9,999",South Atlantic
+359,30 - 44,Female,"$0 to $9,999",East South Central
+361,45 - 59,Female,Prefer not to answer,New England
+362,60,Male,"$75,000 to $99,999",Middle Atlantic
+363,60,Female,"$50,000 to $74,999",Middle Atlantic
+364,18 - 29,Male,"$100,000 to $124,999",South Atlantic
+365,30 - 44,Female,"$75,000 to $99,999",West South Central
+366,60,Male,"$150,000 to $174,999",East North Central
+367,45 - 59,Male,"$200,000 and up",Pacific
+368,18 - 29,Female,Prefer not to answer,East North Central
+369,30 - 44,Female,"$75,000 to $99,999",West North Central
+370,45 - 59,Female,Prefer not to answer,Middle Atlantic
+371,60,Male,"$0 to $9,999",South Atlantic
+372,60,Female,"$25,000 to $49,999",East North Central
+373,60,Female,"$25,000 to $49,999",Mountain
+374,60,Female,"$75,000 to $99,999",New England
+375,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+376,60,Male,"$75,000 to $99,999",West North Central
+377,30 - 44,Female,"$100,000 to $124,999",East North Central
+378,45 - 59,Male,"$50,000 to $74,999",West South Central
+379,60,Female,"$25,000 to $49,999",Mountain
+380,60,Male,Prefer not to answer,Pacific
+381,45 - 59,Female,Prefer not to answer,East North Central
+382,60,Male,Prefer not to answer,Pacific
+383,30 - 44,Male,"$25,000 to $49,999",New England
+384,18 - 29,Female,Prefer not to answer,Pacific
+385,30 - 44,Female,"$50,000 to $74,999",West North Central
+386,45 - 59,Female,"$50,000 to $74,999",Pacific
+387,45 - 59,Female,Prefer not to answer,Pacific
+388,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+389,30 - 44,Female,"$125,000 to $149,999",Pacific
+390,60,Female,"$10,000 to $24,999",West South Central
+391,60,Male,"$75,000 to $99,999",South Atlantic
+392,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+393,18 - 29,Female,Prefer not to answer,East North Central
+394,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+396,45 - 59,Male,"$100,000 to $124,999",East North Central
+397,60,Female,"$25,000 to $49,999",West North Central
+398,45 - 59,Female,Prefer not to answer,South Atlantic
+399,30 - 44,Female,"$75,000 to $99,999",West North Central
+400,18 - 29,Male,"$25,000 to $49,999",Middle Atlantic
+401,18 - 29,Female,"$25,000 to $49,999",Pacific
+402,60,Male,"$75,000 to $99,999",Pacific
+403,18 - 29,Male,Prefer not to answer,West North Central
+404,60,Male,"$150,000 to $174,999",South Atlantic
+405,18 - 29,Female,"$0 to $9,999",West South Central
+406,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+407,30 - 44,Female,"$10,000 to $24,999",West South Central
+408,60,Female,"$50,000 to $74,999",Pacific
+409,45 - 59,Female,"$200,000 and up",East North Central
+410,30 - 44,Female,"$150,000 to $174,999",Pacific
+411,60,Female,"$50,000 to $74,999",Pacific
+412,45 - 59,Female,"$50,000 to $74,999",Mountain
+413,60,Male,"$75,000 to $99,999",East North Central
+414,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+415,30 - 44,Female,"$75,000 to $99,999",New England
+416,60,Male,"$0 to $9,999",South Atlantic
+417,18 - 29,Female,"$50,000 to $74,999",East South Central
+418,30 - 44,Male,Prefer not to answer,East South Central
+419,45 - 59,Male,"$75,000 to $99,999",West South Central
+420,45 - 59,Female,"$0 to $9,999",New England
+421,30 - 44,Male,"$50,000 to $74,999",South Atlantic
+422,30 - 44,Female,Prefer not to answer,South Atlantic
+423,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+424,30 - 44,Female,Prefer not to answer,Mountain
+425,60,Male,"$125,000 to $149,999",West South Central
+426,18 - 29,Male,"$75,000 to $99,999",Pacific
+427,30 - 44,Male,"$50,000 to $74,999",East North Central
+428,60,Female,"$25,000 to $49,999",Middle Atlantic
+429,45 - 59,Female,"$25,000 to $49,999",Mountain
+430,30 - 44,Male,"$10,000 to $24,999",West South Central
+431,45 - 59,Female,"$50,000 to $74,999",Pacific
+432,30 - 44,Male,"$75,000 to $99,999",West South Central
+433,30 - 44,Female,"$50,000 to $74,999",Middle Atlantic
+434,60,Female,"$200,000 and up",West North Central
+435,45 - 59,Female,"$10,000 to $24,999",West South Central
+436,60,Male,"$175,000 to $199,999",New England
+437,18 - 29,Male,"$25,000 to $49,999",East North Central
+438,60,Female,"$125,000 to $149,999",Mountain
+439,60,Female,"$75,000 to $99,999",Middle Atlantic
+440,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+441,45 - 59,Female,"$150,000 to $174,999",New England
+442,30 - 44,Male,"$50,000 to $74,999",East North Central
+443,60,Female,"$25,000 to $49,999",Pacific
+444,45 - 59,Male,"$50,000 to $74,999",New England
+445,30 - 44,Female,Prefer not to answer,Pacific
+446,60,Female,"$10,000 to $24,999",South Atlantic
+447,45 - 59,Female,"$175,000 to $199,999",West South Central
+448,45 - 59,Male,"$25,000 to $49,999",Mountain
+449,30 - 44,Female,Prefer not to answer,East North Central
+450,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+451,45 - 59,Female,"$25,000 to $49,999",Pacific
+453,18 - 29,Female,"$200,000 and up",New England
+454,30 - 44,Female,Prefer not to answer,Pacific
+455,30 - 44,Male,Prefer not to answer,South Atlantic
+456,60,Male,"$200,000 and up",West South Central
+457,45 - 59,Female,Prefer not to answer,Pacific
+458,45 - 59,Female,"$100,000 to $124,999",East North Central
+459,45 - 59,Male,"$100,000 to $124,999",East North Central
+460,60,Female,Prefer not to answer,New England
+461,30 - 44,Female,"$0 to $9,999",South Atlantic
+462,60,Female,"$175,000 to $199,999",New England
+463,45 - 59,Female,"$10,000 to $24,999",Pacific
+464,45 - 59,Female,"$75,000 to $99,999",West North Central
+465,18 - 29,Female,Prefer not to answer,Middle Atlantic
+466,60,Male,"$50,000 to $74,999",New England
+467,60,Female,"$0 to $9,999",East South Central
+468,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+469,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+470,60,Female,"$10,000 to $24,999",New England
+471,60,Female,"$50,000 to $74,999",Middle Atlantic
+472,45 - 59,Female,"$50,000 to $74,999",Mountain
+473,45 - 59,Male,"$150,000 to $174,999",East North Central
+474,60,Female,"$10,000 to $24,999",Middle Atlantic
+475,30 - 44,Female,"$125,000 to $149,999",East North Central
+476,30 - 44,Female,"$50,000 to $74,999",South Atlantic
+477,60,Male,"$10,000 to $24,999",West South Central
+478,30 - 44,Male,"$200,000 and up",Pacific
+479,30 - 44,Female,"$25,000 to $49,999",East North Central
+480,18 - 29,Female,Prefer not to answer,Middle Atlantic
+481,45 - 59,Male,"$150,000 to $174,999",West South Central
+483,30 - 44,Female,Prefer not to answer,East North Central
+484,45 - 59,Male,"$50,000 to $74,999",Pacific
+485,18 - 29,Female,"$100,000 to $124,999",South Atlantic
+486,60,Female,"$75,000 to $99,999",East North Central
+487,30 - 44,Female,Prefer not to answer,Mountain
+488,45 - 59,Female,"$100,000 to $124,999",East North Central
+489,18 - 29,Female,"$50,000 to $74,999",West North Central
+490,60,Male,"$100,000 to $124,999",Middle Atlantic
+491,45 - 59,Female,"$125,000 to $149,999",South Atlantic
+492,30 - 44,Female,"$100,000 to $124,999",Middle Atlantic
+493,60,Female,Prefer not to answer,Mountain
+494,30 - 44,Female,"$50,000 to $74,999",West South Central
+495,60,Male,"$50,000 to $74,999",East North Central
+496,45 - 59,Male,"$50,000 to $74,999",Middle Atlantic
+497,45 - 59,Female,"$100,000 to $124,999",South Atlantic
+498,45 - 59,Female,Prefer not to answer,South Atlantic
+499,45 - 59,Male,"$200,000 and up",South Atlantic
+500,60,Female,"$25,000 to $49,999",South Atlantic
+501,60,Female,"$25,000 to $49,999",South Atlantic
+502,45 - 59,Male,"$100,000 to $124,999",South Atlantic
+503,60,Female,"$75,000 to $99,999",Pacific
+504,30 - 44,Male,"$50,000 to $74,999",Pacific
+505,45 - 59,Male,"$125,000 to $149,999",West South Central
+506,18 - 29,Female,"$125,000 to $149,999",West South Central
+507,60,Male,Prefer not to answer,New England
+508,45 - 59,Male,Prefer not to answer,East North Central
+509,60,Female,Prefer not to answer,Pacific
+510,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+512,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+513,30 - 44,Male,"$50,000 to $74,999",East South Central
+514,18 - 29,Female,"$100,000 to $124,999",Pacific
+515,18 - 29,Female,"$25,000 to $49,999",East North Central
+516,18 - 29,Male,"$150,000 to $174,999",Pacific
+517,45 - 59,Female,"$75,000 to $99,999",West South Central
+518,45 - 59,Female,"$25,000 to $49,999",East North Central
+519,60,Female,"$50,000 to $74,999",Pacific
+520,18 - 29,Female,"$0 to $9,999",West South Central
+521,30 - 44,Female,"$25,000 to $49,999",Middle Atlantic
+522,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+523,45 - 59,Male,"$150,000 to $174,999",East South Central
+524,60,Female,"$25,000 to $49,999",Pacific
+525,30 - 44,Female,"$75,000 to $99,999",East North Central
+526,45 - 59,Female,"$75,000 to $99,999",West North Central
+527,60,Female,"$10,000 to $24,999",South Atlantic
+528,60,Female,"$50,000 to $74,999",New England
+529,30 - 44,Male,"$25,000 to $49,999",West South Central
+530,45 - 59,Female,"$10,000 to $24,999",Pacific
+531,45 - 59,Male,"$50,000 to $74,999",West South Central
+532,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+533,30 - 44,Female,Prefer not to answer,West South Central
+534,60,Female,"$200,000 and up",East North Central
+535,60,Female,"$125,000 to $149,999",Pacific
+536,45 - 59,Male,"$25,000 to $49,999",East South Central
+537,30 - 44,Female,"$200,000 and up",West North Central
+538,45 - 59,Male,"$10,000 to $24,999",East North Central
+539,45 - 59,Female,"$10,000 to $24,999",Mountain
+540,45 - 59,Female,"$125,000 to $149,999",South Atlantic
+541,60,Female,"$50,000 to $74,999",West South Central
+542,18 - 29,Male,"$10,000 to $24,999",Middle Atlantic
+543,18 - 29,Female,Prefer not to answer,South Atlantic
+544,30 - 44,Female,Prefer not to answer,East North Central
+545,45 - 59,Female,"$100,000 to $124,999",Middle Atlantic
+546,60,Male,"$10,000 to $24,999",West South Central
+547,30 - 44,Male,"$75,000 to $99,999",Pacific
+548,30 - 44,Female,"$200,000 and up",East North Central
+549,18 - 29,Male,"$10,000 to $24,999",South Atlantic
+550,60,Female,Prefer not to answer,Mountain
+551,30 - 44,Male,"$50,000 to $74,999",Pacific
+552,18 - 29,Female,"$25,000 to $49,999",West North Central
+553,60,Female,"$25,000 to $49,999",Pacific
+554,18 - 29,Female,Prefer not to answer,New England
+555,30 - 44,Male,"$150,000 to $174,999",Mountain
+556,60,Female,"$150,000 to $174,999",South Atlantic
+557,45 - 59,Female,Prefer not to answer,West South Central
+558,30 - 44,Male,"$75,000 to $99,999",Middle Atlantic
+559,60,Female,"$25,000 to $49,999",East North Central
+560,45 - 59,Male,"$25,000 to $49,999",East North Central
+561,45 - 59,Male,"$50,000 to $74,999",West South Central
+562,60,Female,"$50,000 to $74,999",Middle Atlantic
+563,30 - 44,Female,"$25,000 to $49,999",Pacific
+564,45 - 59,Female,Prefer not to answer,Mountain
+565,45 - 59,Female,"$10,000 to $24,999",East North Central
+566,60,Male,"$200,000 and up",Pacific
+567,45 - 59,Female,"$200,000 and up",West South Central
+568,18 - 29,Male,"$10,000 to $24,999",New England
+569,45 - 59,Male,"$0 to $9,999",East North Central
+570,18 - 29,Male,"$75,000 to $99,999",South Atlantic
+571,18 - 29,Female,"$25,000 to $49,999",Mountain
+572,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+573,45 - 59,Female,"$10,000 to $24,999",South Atlantic
+574,18 - 29,Male,Prefer not to answer,Middle Atlantic
+575,60,Male,"$25,000 to $49,999",South Atlantic
+576,60,Female,"$50,000 to $74,999",Mountain
+577,45 - 59,Female,"$200,000 and up",West South Central
+578,18 - 29,Female,"$100,000 to $124,999",East North Central
+579,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+580,45 - 59,Female,Prefer not to answer,Pacific
+581,18 - 29,Male,"$100,000 to $124,999",East North Central
+582,30 - 44,Male,"$100,000 to $124,999",Pacific
+584,45 - 59,Female,"$100,000 to $124,999",New England
+585,45 - 59,Female,"$25,000 to $49,999",Middle Atlantic
+586,60,Female,"$25,000 to $49,999",Middle Atlantic
+587,45 - 59,Female,"$75,000 to $99,999",East North Central
+588,60,Male,"$50,000 to $74,999",New England
+589,60,Female,"$125,000 to $149,999",Pacific
+590,18 - 29,Female,"$10,000 to $24,999",East North Central
+591,30 - 44,Male,"$25,000 to $49,999",East South Central
+592,45 - 59,Female,"$125,000 to $149,999",South Atlantic
+593,18 - 29,Female,"$0 to $9,999",East South Central
+594,60,Male,"$75,000 to $99,999",West South Central
+595,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+596,18 - 29,Male,"$75,000 to $99,999",East North Central
+597,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+598,30 - 44,Male,"$50,000 to $74,999",South Atlantic
+599,30 - 44,Female,"$75,000 to $99,999",South Atlantic
+600,30 - 44,Female,"$125,000 to $149,999",West North Central
+601,18 - 29,Male,"$50,000 to $74,999",South Atlantic
+602,18 - 29,Female,"$25,000 to $49,999",Mountain
+603,60,Male,"$50,000 to $74,999",West South Central
+604,60,Female,"$100,000 to $124,999",Pacific
+605,30 - 44,Female,"$100,000 to $124,999",New England
+607,60,Female,"$100,000 to $124,999",West South Central
+608,30 - 44,Female,"$50,000 to $74,999",East North Central
+609,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+610,30 - 44,Female,Prefer not to answer,East North Central
+611,45 - 59,Female,"$75,000 to $99,999",Pacific
+612,45 - 59,Male,Prefer not to answer,Pacific
+613,30 - 44,Female,"$10,000 to $24,999",Pacific
+614,45 - 59,Female,"$100,000 to $124,999",West North Central
+615,60,Female,"$25,000 to $49,999",East North Central
+616,45 - 59,Female,"$150,000 to $174,999",Pacific
+617,60,Female,Prefer not to answer,West South Central
+618,30 - 44,Female,"$200,000 and up",West North Central
+619,60,Male,"$50,000 to $74,999",South Atlantic
+620,60,Male,"$75,000 to $99,999",South Atlantic
+621,18 - 29,Female,"$100,000 to $124,999",Pacific
+622,45 - 59,Male,"$75,000 to $99,999",Pacific
+623,30 - 44,Male,"$200,000 and up",Middle Atlantic
+624,60,Male,"$100,000 to $124,999",West South Central
+625,60,Female,Prefer not to answer,Middle Atlantic
+626,18 - 29,Female,"$10,000 to $24,999",East North Central
+627,18 - 29,Male,"$25,000 to $49,999",Pacific
+628,45 - 59,Female,"$50,000 to $74,999",Mountain
+629,18 - 29,Female,"$0 to $9,999",West South Central
+630,30 - 44,Female,"$75,000 to $99,999",Pacific
+631,30 - 44,Female,Prefer not to answer,Middle Atlantic
+632,45 - 59,Female,"$10,000 to $24,999",Pacific
+633,60,Female,Prefer not to answer,West South Central
+634,30 - 44,Male,"$25,000 to $49,999",Middle Atlantic
+635,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+636,18 - 29,Female,"$10,000 to $24,999",Pacific
+637,18 - 29,Female,"$50,000 to $74,999",West South Central
+638,60,Female,"$50,000 to $74,999",West North Central
+639,18 - 29,Male,Prefer not to answer,Pacific
+640,18 - 29,Female,"$125,000 to $149,999",Pacific
+641,30 - 44,Female,"$125,000 to $149,999",East North Central
+642,18 - 29,Female,"$75,000 to $99,999",South Atlantic
+643,18 - 29,Male,"$50,000 to $74,999",South Atlantic
+644,18 - 29,Female,Prefer not to answer,Middle Atlantic
+645,45 - 59,Female,Prefer not to answer,Middle Atlantic
+646,18 - 29,Female,"$25,000 to $49,999",Pacific
+647,45 - 59,Female,Prefer not to answer,West North Central
+648,18 - 29,Male,"$50,000 to $74,999",Mountain
+649,30 - 44,Female,Prefer not to answer,South Atlantic
+650,45 - 59,Male,"$100,000 to $124,999",Pacific
+651,60,Female,"$50,000 to $74,999",Pacific
+652,60,Male,"$50,000 to $74,999",East North Central
+653,60,Male,"$150,000 to $174,999",East North Central
+654,18 - 29,Female,"$25,000 to $49,999",Pacific
+655,60,Female,"$75,000 to $99,999",East North Central
+656,45 - 59,Female,"$100,000 to $124,999",West North Central
+657,45 - 59,Male,"$200,000 and up",Pacific
+658,45 - 59,Female,"$50,000 to $74,999",Middle Atlantic
+660,60,Male,"$50,000 to $74,999",New England
+661,30 - 44,Male,"$50,000 to $74,999",Middle Atlantic
+662,45 - 59,Male,"$50,000 to $74,999",South Atlantic
+663,45 - 59,Male,"$25,000 to $49,999",West South Central
+664,30 - 44,Female,"$25,000 to $49,999",South Atlantic
+665,60,Female,"$25,000 to $49,999",Middle Atlantic
+666,45 - 59,Female,"$10,000 to $24,999",Middle Atlantic
+667,60,Male,"$50,000 to $74,999",South Atlantic
+668,60,Male,"$150,000 to $174,999",South Atlantic
+669,60,Male,"$125,000 to $149,999",South Atlantic
+670,30 - 44,Female,"$25,000 to $49,999",West South Central
+671,45 - 59,Female,"$150,000 to $174,999",Middle Atlantic
+672,45 - 59,Female,"$100,000 to $124,999",South Atlantic
+673,30 - 44,Female,"$50,000 to $74,999",South Atlantic
+674,60,Male,"$50,000 to $74,999",West South Central
+675,45 - 59,Male,"$75,000 to $99,999",East South Central
+676,60,Female,"$50,000 to $74,999",Pacific
+677,18 - 29,Male,Prefer not to answer,Middle Atlantic
+678,18 - 29,Female,"$75,000 to $99,999",East North Central
+679,60,Male,"$100,000 to $124,999",West South Central
+680,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+681,18 - 29,Female,"$150,000 to $174,999",West South Central
+682,18 - 29,Male,"$0 to $9,999",West North Central
+683,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+684,45 - 59,Female,"$200,000 and up",Middle Atlantic
+685,60,Male,"$50,000 to $74,999",Middle Atlantic
+686,45 - 59,Female,"$75,000 to $99,999",Middle Atlantic
+687,60,Female,"$100,000 to $124,999",Pacific
+688,30 - 44,Male,"$75,000 to $99,999",East North Central
+689,30 - 44,Male,"$50,000 to $74,999",Pacific
+690,30 - 44,Female,"$10,000 to $24,999",South Atlantic
+691,18 - 29,Female,"$10,000 to $24,999",Middle Atlantic
+692,45 - 59,Female,"$100,000 to $124,999",Middle Atlantic
+693,18 - 29,Female,"$75,000 to $99,999",Middle Atlantic
+694,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+695,45 - 59,Female,"$100,000 to $124,999",West South Central
+696,45 - 59,Female,"$0 to $9,999",East South Central
+697,60,Male,"$75,000 to $99,999",Pacific
+698,30 - 44,Male,"$25,000 to $49,999",West North Central
+699,60,Female,"$50,000 to $74,999",East North Central
+700,18 - 29,Female,"$50,000 to $74,999",Pacific
+701,45 - 59,Female,"$50,000 to $74,999",Mountain
+702,30 - 44,Male,Prefer not to answer,West South Central
+703,18 - 29,Male,Prefer not to answer,New England
+704,45 - 59,Female,"$100,000 to $124,999",West South Central
+705,30 - 44,Male,"$10,000 to $24,999",West South Central
+706,60,Female,Prefer not to answer,South Atlantic
+707,60,Female,"$25,000 to $49,999",Middle Atlantic
+708,30 - 44,Female,"$75,000 to $99,999",South Atlantic
+709,18 - 29,Male,"$0 to $9,999",South Atlantic
+710,30 - 44,Female,Prefer not to answer,West South Central
+711,60,Female,Prefer not to answer,Middle Atlantic
+712,30 - 44,Female,"$50,000 to $74,999",Pacific
+713,60,Female,Prefer not to answer,New England
+714,60,Female,"$50,000 to $74,999",Middle Atlantic
+715,45 - 59,Male,"$10,000 to $24,999",Pacific
+716,45 - 59,Female,"$75,000 to $99,999",West South Central
+717,30 - 44,Male,"$50,000 to $74,999",Pacific
+718,18 - 29,Female,"$0 to $9,999",West North Central
+719,30 - 44,Male,"$0 to $9,999",Pacific
+720,30 - 44,Male,"$50,000 to $74,999",West North Central
+721,45 - 59,Female,"$200,000 and up",South Atlantic
+722,45 - 59,Male,"$10,000 to $24,999",Pacific
+723,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+724,45 - 59,Female,Prefer not to answer,West South Central
+725,18 - 29,Male,"$25,000 to $49,999",West North Central
+726,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+727,60,Female,"$200,000 and up",South Atlantic
+728,30 - 44,Female,"$50,000 to $74,999",Pacific
+729,30 - 44,Female,"$100,000 to $124,999",Middle Atlantic
+730,45 - 59,Female,"$50,000 to $74,999",Pacific
+731,18 - 29,Male,"$25,000 to $49,999",East South Central
+733,30 - 44,Female,"$50,000 to $74,999",Pacific
+734,60,Female,Prefer not to answer,New England
+735,60,Female,"$75,000 to $99,999",Pacific
+736,60,Male,Prefer not to answer,Pacific
+738,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+739,30 - 44,Female,"$150,000 to $174,999",West North Central
+740,45 - 59,Female,Prefer not to answer,Middle Atlantic
+741,60,Female,"$200,000 and up",West South Central
+742,18 - 29,Female,"$10,000 to $24,999",Pacific
+743,18 - 29,Female,"$0 to $9,999",South Atlantic
+744,30 - 44,Female,"$75,000 to $99,999",Middle Atlantic
+745,45 - 59,Female,"$75,000 to $99,999",New England
+746,60,Female,"$25,000 to $49,999",Pacific
+747,60,Male,"$125,000 to $149,999",Mountain
+748,60,Female,"$25,000 to $49,999",Middle Atlantic
+749,60,Male,"$25,000 to $49,999",Pacific
+750,30 - 44,Female,"$125,000 to $149,999",New England
+751,60,Female,"$100,000 to $124,999",New England
+752,60,Male,"$200,000 and up",Mountain
+753,30 - 44,Female,"$175,000 to $199,999",Middle Atlantic
+754,45 - 59,Female,"$25,000 to $49,999",Mountain
+755,30 - 44,Male,"$75,000 to $99,999",Pacific
+756,45 - 59,Female,Prefer not to answer,Pacific
+757,30 - 44,Female,"$10,000 to $24,999",East North Central
+758,60,Male,"$125,000 to $149,999",South Atlantic
+759,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+760,45 - 59,Female,"$150,000 to $174,999",Middle Atlantic
+761,60,Female,"$50,000 to $74,999",East South Central
+762,45 - 59,Male,"$50,000 to $74,999",Pacific
+763,60,Female,Prefer not to answer,Pacific
+764,45 - 59,Female,"$150,000 to $174,999",South Atlantic
+765,30 - 44,Female,"$75,000 to $99,999",East North Central
+766,18 - 29,Female,"$25,000 to $49,999",East South Central
+767,18 - 29,Male,"$25,000 to $49,999",Pacific
+768,30 - 44,Female,"$25,000 to $49,999",Mountain
+769,45 - 59,Female,"$150,000 to $174,999",New England
+770,60,Female,"$125,000 to $149,999",Middle Atlantic
+772,45 - 59,Male,"$50,000 to $74,999",Mountain
+773,45 - 59,Male,"$200,000 and up",East North Central
+774,30 - 44,Female,"$50,000 to $74,999",South Atlantic
+775,60,Female,Prefer not to answer,East North Central
+776,18 - 29,Male,"$0 to $9,999",Pacific
+777,18 - 29,Female,"$50,000 to $74,999",South Atlantic
+778,30 - 44,Female,"$50,000 to $74,999",Middle Atlantic
+779,30 - 44,Male,"$200,000 and up",East North Central
+780,18 - 29,Female,"$10,000 to $24,999",West North Central
+781,45 - 59,Male,"$200,000 and up",East North Central
+783,30 - 44,Female,"$25,000 to $49,999",West South Central
+784,30 - 44,Female,Prefer not to answer,West North Central
+785,60,Female,"$0 to $9,999",Middle Atlantic
+786,30 - 44,Female,"$50,000 to $74,999",South Atlantic
+787,30 - 44,Male,"$25,000 to $49,999",Mountain
+788,18 - 29,Male,"$10,000 to $24,999",New England
+789,18 - 29,Male,Prefer not to answer,Middle Atlantic
+790,45 - 59,Female,Prefer not to answer,East North Central
+791,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+792,45 - 59,Male,"$75,000 to $99,999",Middle Atlantic
+793,45 - 59,Male,"$10,000 to $24,999",New England
+794,60,Female,"$125,000 to $149,999",Pacific
+795,60,Female,Prefer not to answer,West South Central
+796,60,Male,"$50,000 to $74,999",Middle Atlantic
+797,18 - 29,Female,Prefer not to answer,West South Central
+798,60,Male,"$50,000 to $74,999",East North Central
+799,45 - 59,Female,"$75,000 to $99,999",New England
+800,45 - 59,Female,"$75,000 to $99,999",South Atlantic
+801,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+802,60,Male,"$100,000 to $124,999",East South Central
+803,60,Female,Prefer not to answer,Middle Atlantic
+804,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+805,60,Female,"$75,000 to $99,999",East North Central
+806,18 - 29,Female,"$0 to $9,999",South Atlantic
+807,45 - 59,Male,"$125,000 to $149,999",Middle Atlantic
+808,30 - 44,Female,"$25,000 to $49,999",West North Central
+809,60,Male,"$50,000 to $74,999",Middle Atlantic
+810,30 - 44,Female,"$10,000 to $24,999",East North Central
+811,45 - 59,Female,"$150,000 to $174,999",South Atlantic
+812,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+813,45 - 59,Male,"$50,000 to $74,999",East North Central
+814,60,Male,"$125,000 to $149,999",West South Central
+815,60,Female,"$25,000 to $49,999",Mountain
+816,18 - 29,Female,"$150,000 to $174,999",Middle Atlantic
+817,60,Male,"$50,000 to $74,999",South Atlantic
+818,45 - 59,Female,"$25,000 to $49,999",East North Central
+819,30 - 44,Female,Prefer not to answer,West South Central
+820,60,Female,"$25,000 to $49,999",Mountain
+821,60,Male,"$25,000 to $49,999",South Atlantic
+822,30 - 44,Female,"$25,000 to $49,999",Pacific
+823,45 - 59,Female,"$10,000 to $24,999",Pacific
+824,60,Male,"$75,000 to $99,999",South Atlantic
+825,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+826,30 - 44,Female,"$75,000 to $99,999",West North Central
+827,60,Female,"$25,000 to $49,999",Pacific
+828,60,Female,Prefer not to answer,South Atlantic
+829,18 - 29,Male,"$25,000 to $49,999",Pacific
+830,60,Female,"$150,000 to $174,999",South Atlantic
+831,45 - 59,Female,"$10,000 to $24,999",New England
+832,45 - 59,Female,"$75,000 to $99,999",Pacific
+833,30 - 44,Male,"$0 to $9,999",Pacific
+834,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+835,30 - 44,Female,Prefer not to answer,West South Central
+836,45 - 59,Female,"$25,000 to $49,999",South Atlantic
+837,60,Female,"$75,000 to $99,999",South Atlantic
+838,45 - 59,Male,"$200,000 and up",South Atlantic
+839,30 - 44,Female,"$25,000 to $49,999",Pacific
+840,30 - 44,Female,"$50,000 to $74,999",Mountain
+841,45 - 59,Male,"$10,000 to $24,999",South Atlantic
+842,45 - 59,Female,"$50,000 to $74,999",Mountain
+843,60,Female,"$25,000 to $49,999",Pacific
+844,30 - 44,Female,"$25,000 to $49,999",East South Central
+845,60,Female,"$25,000 to $49,999",West South Central
+846,18 - 29,Male,"$75,000 to $99,999",Pacific
+847,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+848,18 - 29,Female,Prefer not to answer,East North Central
+849,30 - 44,Female,Prefer not to answer,South Atlantic
+850,60,Male,"$150,000 to $174,999",Mountain
+851,30 - 44,Male,"$75,000 to $99,999",West North Central
+852,45 - 59,Female,"$25,000 to $49,999",Pacific
+853,45 - 59,Female,"$75,000 to $99,999",New England
+854,30 - 44,Female,"$75,000 to $99,999",Pacific
+855,60,Male,"$75,000 to $99,999",Pacific
+856,18 - 29,Female,"$25,000 to $49,999",Pacific
+857,18 - 29,Female,"$25,000 to $49,999",Middle Atlantic
+858,60,Female,Prefer not to answer,Middle Atlantic
+859,45 - 59,Male,"$50,000 to $74,999",East South Central
+860,18 - 29,Female,"$50,000 to $74,999",Middle Atlantic
+861,60,Female,"$50,000 to $74,999",New England
+862,30 - 44,Female,"$50,000 to $74,999",Pacific
+863,18 - 29,Female,"$0 to $9,999",Middle Atlantic
+864,45 - 59,Male,"$50,000 to $74,999",Middle Atlantic
+865,18 - 29,Female,Prefer not to answer,Middle Atlantic
+866,45 - 59,Male,"$50,000 to $74,999",East North Central
+867,30 - 44,Female,"$200,000 and up",West North Central
+868,60,Female,Prefer not to answer,West North Central
+869,18 - 29,Female,"$25,000 to $49,999",South Atlantic
+870,60,Female,"$50,000 to $74,999",West South Central
+871,60,Male,"$200,000 and up",Middle Atlantic
+873,60,Male,"$0 to $9,999",Mountain
+874,45 - 59,Female,"$50,000 to $74,999",New England
+875,18 - 29,Female,"$200,000 and up",Pacific
+876,60,Female,"$75,000 to $99,999",East North Central
+877,60,Female,"$75,000 to $99,999",Middle Atlantic
+878,30 - 44,Female,"$100,000 to $124,999",South Atlantic
+879,18 - 29,Female,"$0 to $9,999",South Atlantic
+880,30 - 44,Female,"$25,000 to $49,999",Middle Atlantic
+881,45 - 59,Female,"$50,000 to $74,999",East North Central
+882,18 - 29,Male,"$0 to $9,999",Pacific
+883,60,Male,"$100,000 to $124,999",Middle Atlantic
+884,45 - 59,Female,"$25,000 to $49,999",West South Central
+885,18 - 29,Female,"$25,000 to $49,999",East North Central
+886,30 - 44,Female,"$25,000 to $49,999",Pacific
+887,45 - 59,Female,Prefer not to answer,South Atlantic
+888,60,Male,"$50,000 to $74,999",New England
+889,18 - 29,Female,"$10,000 to $24,999",Pacific
+890,60,Male,"$100,000 to $124,999",Middle Atlantic
+891,45 - 59,Female,"$10,000 to $24,999",East South Central
+892,60,Male,"$50,000 to $74,999",West North Central
+893,60,Female,"$25,000 to $49,999",Pacific
+894,60,Female,"$50,000 to $74,999",East South Central
+895,30 - 44,Female,"$100,000 to $124,999",East North Central
+896,30 - 44,Female,"$25,000 to $49,999",East North Central
+897,60,Female,"$10,000 to $24,999",Middle Atlantic
+898,60,Female,"$75,000 to $99,999",Pacific
+899,30 - 44,Female,"$75,000 to $99,999",East South Central
+900,45 - 59,Male,"$25,000 to $49,999",Pacific
+901,45 - 59,Female,"$10,000 to $24,999",Mountain
+902,45 - 59,Male,Prefer not to answer,Middle Atlantic
+903,45 - 59,Male,"$75,000 to $99,999",Mountain
+904,45 - 59,Female,"$0 to $9,999",West North Central
+905,45 - 59,Female,"$175,000 to $199,999",Middle Atlantic
+906,45 - 59,Female,Prefer not to answer,East North Central
+907,30 - 44,Male,"$100,000 to $124,999",West North Central
+908,60,Female,"$150,000 to $174,999",South Atlantic
+909,18 - 29,Male,"$100,000 to $124,999",New England
+910,45 - 59,Male,"$75,000 to $99,999",South Atlantic
+911,30 - 44,Female,"$50,000 to $74,999",East North Central
+912,45 - 59,Male,"$25,000 to $49,999",South Atlantic
+913,60,Female,"$50,000 to $74,999",West South Central
+914,60,Male,"$50,000 to $74,999",New England
+915,45 - 59,Male,"$50,000 to $74,999",East North Central
+916,45 - 59,Male,"$100,000 to $124,999",New England
+917,60,Female,"$25,000 to $49,999",East North Central
+918,60,Male,"$75,000 to $99,999",Middle Atlantic
+919,30 - 44,Female,"$75,000 to $99,999",Pacific
+920,30 - 44,Female,"$125,000 to $149,999",Mountain
+921,45 - 59,Male,"$75,000 to $99,999",Middle Atlantic
+922,30 - 44,Female,"$50,000 to $74,999",West South Central
+923,30 - 44,Male,"$10,000 to $24,999",South Atlantic
+924,18 - 29,Female,"$75,000 to $99,999",New England
+925,45 - 59,Female,"$10,000 to $24,999",Middle Atlantic
+926,45 - 59,Female,"$10,000 to $24,999",Pacific
+927,45 - 59,Male,"$150,000 to $174,999",West South Central
+928,60,Female,Prefer not to answer,Pacific
+929,45 - 59,Female,"$50,000 to $74,999",Mountain
+930,30 - 44,Female,"$200,000 and up",South Atlantic
+931,30 - 44,Male,"$75,000 to $99,999",South Atlantic
+932,60,Male,"$50,000 to $74,999",Pacific
+933,45 - 59,Female,"$50,000 to $74,999",Pacific
+934,30 - 44,Male,"$25,000 to $49,999",West North Central
+935,45 - 59,Male,"$75,000 to $99,999",East North Central
+936,60,Female,"$125,000 to $149,999",South Atlantic
+937,30 - 44,Female,"$200,000 and up",New England
+938,60,Female,"$100,000 to $124,999",West North Central
+939,18 - 29,Female,"$75,000 to $99,999",Pacific
+940,60,Male,"$150,000 to $174,999",Mountain
+941,60,Male,"$75,000 to $99,999",West North Central
+942,45 - 59,Female,"$50,000 to $74,999",Middle Atlantic
+943,60,Male,"$200,000 and up",Pacific
+944,45 - 59,Male,"$50,000 to $74,999",West South Central
+945,45 - 59,Female,"$75,000 to $99,999",Pacific
+946,60,Male,"$100,000 to $124,999",Middle Atlantic
+947,18 - 29,Female,"$50,000 to $74,999",Pacific
+948,45 - 59,Female,"$25,000 to $49,999",West North Central
+949,60,Male,"$25,000 to $49,999",West North Central
+950,45 - 59,Female,"$50,000 to $74,999",Pacific
+951,45 - 59,Female,"$0 to $9,999",Mountain
+952,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+953,60,Female,"$75,000 to $99,999",Pacific
+954,60,Female,"$50,000 to $74,999",South Atlantic
+955,30 - 44,Female,"$0 to $9,999",East North Central
+956,45 - 59,Female,"$75,000 to $99,999",East South Central
+957,45 - 59,Female,"$25,000 to $49,999",Pacific
+958,60,Male,"$200,000 and up",Pacific
+959,30 - 44,Female,"$75,000 to $99,999",Pacific
+960,30 - 44,Female,"$75,000 to $99,999",New England
+961,30 - 44,Female,"$50,000 to $74,999",East North Central
+962,45 - 59,Male,"$25,000 to $49,999",Middle Atlantic
+963,30 - 44,Female,Prefer not to answer,South Atlantic
+964,30 - 44,Female,"$50,000 to $74,999",Mountain
+965,30 - 44,Male,"$100,000 to $124,999",Middle Atlantic
+966,45 - 59,Male,"$100,000 to $124,999",Middle Atlantic
+967,30 - 44,Male,"$50,000 to $74,999",Pacific
+968,30 - 44,Female,"$25,000 to $49,999",East North Central
+969,60,Female,"$25,000 to $49,999",South Atlantic
+970,60,Male,"$75,000 to $99,999",Mountain
+971,30 - 44,Female,"$10,000 to $24,999",South Atlantic
+972,45 - 59,Male,"$100,000 to $124,999",East North Central
+973,45 - 59,Male,"$200,000 and up",Middle Atlantic
+974,60,Female,"$25,000 to $49,999",Pacific
+975,30 - 44,Female,"$25,000 to $49,999",East North Central
+976,18 - 29,Female,"$75,000 to $99,999",Mountain
+977,60,Female,"$25,000 to $49,999",East South Central
+978,60,Female,"$10,000 to $24,999",South Atlantic
+979,30 - 44,Female,"$25,000 to $49,999",West South Central
+980,60,Male,"$75,000 to $99,999",West South Central
+981,18 - 29,Female,"$10,000 to $24,999",West North Central
+982,18 - 29,Female,"$10,000 to $24,999",South Atlantic
+983,60,Male,"$200,000 and up",Pacific
+985,45 - 59,Male,"$25,000 to $49,999",Pacific
+986,30 - 44,Female,"$0 to $9,999",East North Central
+987,45 - 59,Female,"$50,000 to $74,999",South Atlantic
+988,30 - 44,Female,"$0 to $9,999",Pacific
+989,30 - 44,Female,"$0 to $9,999",East North Central
+990,60,Female,"$10,000 to $24,999",New England
+991,30 - 44,Female,Prefer not to answer,Pacific
+993,45 - 59,Male,"$75,000 to $99,999",New England
+994,30 - 44,Female,"$25,000 to $49,999",East South Central
+995,30 - 44,Female,"$75,000 to $99,999",South Atlantic
+996,45 - 59,Female,"$100,000 to $124,999",Middle Atlantic
+997,45 - 59,Male,"$0 to $9,999",Pacific
+998,60,Female,"$25,000 to $49,999",East North Central
+999,30 - 44,Female,"$50,000 to $74,999",New England
+1000,60,Female,"$50,000 to $74,999",Middle Atlantic
+1001,60,Female,"$75,000 to $99,999",South Atlantic
+1002,60,Male,"$75,000 to $99,999",Mountain
+1003,45 - 59,Male,"$50,000 to $74,999",Pacific
+1004,18 - 29,Female,"$10,000 to $24,999",East North Central
+1005,60,Female,"$200,000 and up",West North Central
+1006,45 - 59,Male,"$75,000 to $99,999",East North Central
+1007,60,Female,Prefer not to answer,New England
+1008,60,Male,Prefer not to answer,Pacific
+1009,60,Female,"$50,000 to $74,999",Pacific
+1010,30 - 44,Female,Prefer not to answer,Middle Atlantic
+1011,30 - 44,Female,"$50,000 to $74,999",East North Central
